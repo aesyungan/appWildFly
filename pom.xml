@@ -24,7 +24,7 @@
         <dependency>
             <groupId>org.wildfly</groupId>
             <artifactId>wildfly-cli</artifactId>
-            <version>8.0.0.Final</version>
+            <version>8.2.1.Final</version>
         </dependency>
     </dependencies>
 
@@ -75,7 +75,7 @@
                     </execution>
                 </executions>
             </plugin>
-             <plugin>
+            <plugin>
                 <groupId>org.wildfly.plugins</groupId>
                 <artifactId>wildfly-maven-plugin</artifactId>
                 <version>1.2.1.Final</version>
