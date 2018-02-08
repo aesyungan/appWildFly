@@ -25,7 +25,7 @@
         <dependency>
             <groupId>org.wildfly</groupId>
             <artifactId>wildfly-cli</artifactId>
-            <version>8.2.1.Final</version>
+            <version>8.2.0.Final</version>
         </dependency>
 
     </dependencies>
